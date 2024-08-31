@@ -26,6 +26,8 @@ The dataset contains real estate listings with various features, such as:
 - **Size (sqft)**: Size of the property in square feet
 - **Bedrooms (BHK)**: Number of bedrooms
 - **Bathrooms**: Number of bathrooms
+  
+You can download the dataset from Kaggle: [UAE Real Estate 2024 Dataset](https://www.kaggle.com/datasets/kanchana1990/uae-real-estate-2024-dataset)
 
 ## Key Steps
 
