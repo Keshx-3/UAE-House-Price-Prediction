@@ -5,7 +5,7 @@ function getBathValue() {
         return parseInt(i)+1;
     }
   }
-  return -1; // Invalid Value
+  return -1; // Invalid val
 }
 
 function getBHKValue() {
