@@ -39,7 +39,7 @@ You can download the dataset from Kaggle: [UAE Real Estate 2024 Dataset](https:/
 6. **Deploying the Model**: Using Flask to serve the trained model and handle HTTP requests.
 7. **Building the User Interface**: Developing a web interface that allows users to enter property details and receive predicted prices.
 
-## Key Steps
+## Output
 
 ![image](https://github.com/user-attachments/assets/c0ef71df-21e4-4663-afbf-baa8054af2fb)
 
